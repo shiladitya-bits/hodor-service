@@ -1,6 +1,7 @@
-# Hodor::Service
+# Hodor::Service (Ruby)
 
-This is the server which implements the [Hodor SDK](https://github.com/shiladitya-bits/hodor). 
+This is the gRPC server which implements the [Hodor SDK](https://github.com/shiladitya-bits/hodor). 
+Sample gRPC client (Ruby) - [hodor-client](https://github.com/shiladitya-bits/hodor-client)
 
 ## Usage
     $ chmod +x app/hodor-service.rb
